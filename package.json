@@ -1,0 +1,12 @@
+{
+  "name": "exo-1",
+  "version": "1.0.0",
+  "description": "test ci/cd",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "test.js",
+    "scripts": {
+      "test": "node --test"
+    }
+  }
